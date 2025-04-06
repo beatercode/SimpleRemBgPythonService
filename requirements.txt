@@ -1,5 +1,5 @@
 flask==2.0.1
 flask-cors==3.0.10
-rembg==2.0.30
+rembg==2.0.65
 Pillow==9.0.0
 gunicorn==20.1.0
